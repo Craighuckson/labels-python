@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="hlightPointStyle">
+      <IconStyle>
+        <scale>0.118182</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<table border="0">
+  <tr><td><b>Drawing_Ref</b></td><td>$[Drawing_Ref/Drawing_Ref]</td></tr>
+  <tr><td><b>HotLink</b></td><td>$[Drawing_Ref/HotLink]</td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="hlightPointStyle0">
+      <IconStyle>
+        <scale>0.118182</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<table border="0">
+  <tr><td><b>Drawing_Ref</b></td><td>$[Drawing_Ref/Drawing_Ref]</td></tr>
+  <tr><td><b>HotLink</b></td><td>$[Drawing_Ref/HotLink]</td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="label-style--65281">
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="label-style--652810">
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="label-style--652811">
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="label-style--652812">
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="label-style--652814">
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <Style id="label-style--652815">
+      <IconStyle>
+        <color>ffff55ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <Style id="label-style--6528150">
+      <IconStyle>
+        <color>ffff55ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <StyleMap id="label-style--6528151">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#label-style--652815</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#label-style--6528150</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="label-style--652816">
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="label-style--652817">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#label-style--6528170</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#label-style--6528171</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="label-style--6528170">
+      <IconStyle>
+        <color>ffff55ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <Style id="label-style--6528171">
+      <IconStyle>
+        <color>ffff55ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff00ff</color>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <StyleMap id="label-style--652818">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#label-style--6528184</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#label-style--6528185</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="label-style--6528180">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <Style id="label-style--6528181">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <Style id="label-style--6528182">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <Style id="label-style--6528183">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <Style id="label-style--6528184">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <Style id="label-style--6528185">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+      </LabelStyle>
+      <ListStyle/>
+    </Style>
+    <StyleMap id="line-style-19906863">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-style-199068632</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-style-199068634</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-style-199068630">
+      <LineStyle>
+        <color>ffcb65ff</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-style-199068631">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-style-199068633</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-style-199068630</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-style-199068632">
+      <LineStyle>
+        <color>ffcb65ff</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <Style id="line-style-199068633">
+      <LineStyle>
+        <color>ffcb65ff</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <Style id="line-style-199068634">
+      <LineStyle>
+        <color>ffcb65ff</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <Style id="line-style-23045084">
+      <LineStyle>
+        <color>ffff3300</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <Style id="line-style-32895061">
+      <LineStyle>
+        <color>ffff3300</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-style-4776010">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-style-47760100</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-style-47760101</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-style-47760100">
+      <LabelStyle>
+        <color>00ffffff</color>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff3300</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <Style id="line-style-47760101">
+      <LabelStyle>
+        <color>00ffffff</color>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff3300</color>
+        <width>6</width>
+        <gx:labelVisibility>1</gx:labelVisibility>
+      </LineStyle>
+    </Style>
+    <StyleMap id="m_ylw-pushpin">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#s_ylw-pushpin0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#s_ylw-pushpin_hl</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="m_ylw-pushpin0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#s_ylw-pushpin</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="msn_placemark_square">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#sn_placemark_square</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#sh_placemark_square_highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="normPointStyle">
+      <IconStyle>
+        <scale>0.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<table border="0">
+  <tr><td><b>Drawing_Ref</b></td><td>$[Drawing_Ref/Drawing_Ref]</td></tr>
+  <tr><td><b>HotLink</b></td><td>$[Drawing_Ref/HotLink]</td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="normPointStyle0">
+      <IconStyle>
+        <scale>0.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<table border="0">
+  <tr><td><b>Drawing_Ref</b></td><td>$[Drawing_Ref/Drawing_Ref]</td></tr>
+  <tr><td><b>HotLink</b></td><td>$[Drawing_Ref/HotLink]</td></tr>
+</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="pointStyleMap">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normPointStyle</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#hlightPointStyle0</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="pointStyleMap0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normPointStyle0</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#hlightPointStyle</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="s_ylw-pushpin">
+      <IconStyle>
+        <color>ff7f00ff</color>
+        <scale>0.4</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>f200ffff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="s_ylw-pushpin0">
+      <IconStyle>
+        <color>ff7f00ff</color>
+        <scale>0.4</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>f200ffff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="s_ylw-pushpin_hl">
+      <IconStyle>
+        <color>ff7f00ff</color>
+        <scale>0.472728</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>f200ffff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="s_ylw-pushpin_hl0">
+      <IconStyle>
+        <color>ff7f00ff</color>
+        <scale>0.472728</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>f200ffff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="sh_placemark_square_highlight">
+      <IconStyle>
+        <scale>0.118182</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle/>
+    </Style>
+    <Style id="sn_placemark_square">
+      <IconStyle>
+        <scale>0.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00ffffff</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle/>
+    </Style>
+    <Schema id="S_Drawing_Ref_SS" name="Drawing_Ref">
+      <SimpleField name="Drawing_Ref" type="string">
+        <displayName><![CDATA[<b>Drawing_Ref</b>]]></displayName>
+      </SimpleField>
+      <SimpleField name="HotLink" type="string">
+        <displayName><![CDATA[<b>HotLink</b>]]></displayName>
+      </SimpleField>
+    </Schema>
+    <Schema id="texts" name="texts">
+      <SimpleField name="text" type="string"/>
+    </Schema>
+  </Document>
+</kml>

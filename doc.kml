@@ -1,0 +1,222 @@
+<kml>
+  <Document>
+    <name>q0</name>
+    <atom:link href="1.kml" rel="self" type="application/vnd.google-earth.kml+xml"/>
+    <LookAt>
+      <longitude>-79.45934934</longitude>
+      <latitude>43.96309877</latitude>
+      <range>96199.2136489803</range>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+    <Region id="q0">
+      <LatLonAltBox>
+        <north>45</north>
+        <south>42.1875</south>
+        <east>-78.75</east>
+        <west>-81.5625</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>256</minLodPixels>
+        <maxLodPixels>-1</maxLodPixels>
+      </Lod>
+    </Region>
+    <NetworkLink>
+      <Region id="q01">
+        <LatLonAltBox>
+          <north>45</north>
+          <south>43.59375</south>
+          <east>-78.75</east>
+          <west>-80.15625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>2.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <Region id="q03">
+        <LatLonAltBox>
+          <north>43.59375</north>
+          <south>42.1875</south>
+          <east>-78.75</east>
+          <west>-80.15625</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>256</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>6781.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <Placemark>
+        <name>Node 592_Princess Margaret Blvd_UG_Asbuiltpdf.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+Node 592_Princess Margaret Blvd_UG_Asbuiltpdf.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.540103,43.674307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1016241 20 Pullman Court_As-built.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1016241 20 Pullman Court_As-built.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.241801,43.823757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1015748 McNicoll Ave - Tiffield Rd to Markham Rd_As-built.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1015748 McNicoll Ave - Tiffield Rd to Markham Rd_As-built.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.256194,43.821948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1015790_100 Milverton Dr_UG_Asbuilt.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1015790_100 Milverton Dr_UG_Asbuilt.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.672992,43.618828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1117213_1 Robert Speck Pkwy_Asbuilt.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1117213_1 Robert Speck Pkwy_Asbuilt.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.638756,43.596947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1117100_121 McPherson St_Underground_Asbuilt.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1117100_121 McPherson St_Underground_Asbuilt.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.332748,43.831584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1015849_Clegg Rd-Town Centre Blvd to Rodick and Whitehall_Underground_Asbuilt.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1015849_Clegg Rd-Town Centre Blvd to Rodick and Whitehall_Underground_Asbuilt.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.350286,43.856082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1015849_Rodick Rd and Apple Creek Blvd to Allstate Pkwy and Reg Rd 7_Asbuilt.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1015849_Rodick Rd and Apple Creek Blvd to Allstate Pkwy and Reg Rd 7_Asbuilt.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.361838,43.857253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1015849_Rodick Rd and Apple Creek Blvd to Allstate Pkwy and Reg Rd 7_Asbuilt.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1015849_Rodick Rd and Apple Creek Blvd to Allstate Pkwy and Reg Rd 7_Asbuilt.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.363552,43.859169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1015849_Rodick Rd and Apple Creek Blvd to Allstate Pkwy and Reg Rd 7_Asbuilt.pdf</name>
+        <visibility>0</visibility>
+        <styleUrl>shared.kml#m_ylw-pushpin</styleUrl>
+        <ExtendedData>
+          <SchemaData schemaUrl="shared.kml#texts">
+            <SimpleData name="text">
+1015849_Rodick Rd and Apple Creek Blvd to Allstate Pkwy and Reg Rd 7_Asbuilt.pdf            </SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.368824,43.853499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
